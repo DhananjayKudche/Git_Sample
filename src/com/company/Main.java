@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println("Trying GitHub");
         System.out.println("Hello Peter");
+	 System.out.println("I'm changing in GitHub, Fine?");    
     }
 }
